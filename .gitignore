@@ -1,0 +1,33 @@
+# Ignore Windows executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore compiled static and dynamic libraries
+*.lib
+*.dll
+*.so
+*.a
+
+# Ignore debug files
+*.pdb
+
+# Ignore build directories
+/build/
+/bin/
+/out/
+
+# Ignore IDE/editor files
+.vscode/
+*.suo
+*.user
+*.ncb
+*.log
+*.db
+*.sdf
+*.opensdf
+
+# Ignore macOS system files (if relevant)
+.DS_Store
