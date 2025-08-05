@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohitsin28/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 | [0595-big-countries](https://github.com/rohitsin28/DSA/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/rohitsin28/DSA/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rohitsin28/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
