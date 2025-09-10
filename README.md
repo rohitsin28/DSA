@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rohitsin28/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rohitsin28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohitsin28/DSA/tree/master/0137-single-number-ii) |
 ## Hash Table
@@ -34,9 +35,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rohitsin28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohitsin28/DSA/tree/master/0137-single-number-ii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
