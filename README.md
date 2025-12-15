@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/rohitsin28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohitsin28/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsin28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/rohitsin28/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/rohitsin28/DSA/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
