@@ -19,6 +19,7 @@
 | [0137-single-number-ii](https://github.com/rohitsin28/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsin28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/rohitsin28/DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/rohitsin28/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitsin28/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rohitsin28/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
