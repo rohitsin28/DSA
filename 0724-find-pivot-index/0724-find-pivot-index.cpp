@@ -15,5 +15,5 @@ public:
             leftSum += nums[i];
         }
         return -1;
-    }
+    };
 };
