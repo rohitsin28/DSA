@@ -5,10 +5,11 @@ public:
         int prefixSum = 0;
         for(int i=0;i<nums.size();i++){
             prefixSum += nums[i];
-            maxi = max(maxi,prefixSum);
-            if(prefixSum<0){
-                prefixSum=0;
-            }
+            if(maxi < prefixSum)
+                maxi = prefixSum;
+
+            if(prefixSum<0)
+                prefixSum = 0;
         }
         return maxi;
     };
