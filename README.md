@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/rohitsin28/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohitsin28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rohitsin28/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rohitsin28/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rohitsin28/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rohitsin28/DSA/tree/master/0137-single-number-ii) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohitsin28/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rohitsin28/DSA/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitsin28/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rohitsin28/DSA/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rohitsin28/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
